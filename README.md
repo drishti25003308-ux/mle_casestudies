@@ -1,2 +1,2 @@
-# mle_casestudy1
+# mle_casestudies
 Machine Learning Case studies 
